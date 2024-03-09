@@ -13,7 +13,9 @@ body{
     left: 0;
     width: 100%;
     height: 100vh;
-    background: #222;
+    background:  url(sunrise-morning-scenic-sky-clouds-flight-view-flying-beautiful.jpg);
+    background-size: cover;
+    background-attachment: fixed;
 }
 .layer:before{
     content: '';
@@ -21,8 +23,9 @@ body{
     left: -40px;
     width: 80px;
     height: 200px;
-    background: #222;
-    box-shadow: 0 calc(90vh + 100px) 0 #222;
+    background: url(sunrise-morning-scenic-sky-clouds-flight-view-flying-beautiful.jpg);
+    background-size: cover;
+    background-attachment: fixed;
 
 
 }
